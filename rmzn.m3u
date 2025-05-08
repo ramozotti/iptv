@@ -65,9 +65,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0,NTV
 #EXTGRP:unsorted
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:0,Haber Global
-#EXTGRP:unsorted
-http://185.234.111.229:8000/play/a05x
 #EXTINF:0,TRT Haber
 #EXTGRP:unsorted
 https://tv-trthaber.medya.trt.com.tr/master.m3u8

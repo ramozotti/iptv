@@ -50,6 +50,9 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0,Halk TV
 #EXTGRP:unsorted
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:0,SOZCU TV
+#EXTGRP:unsorted
+https://cdn900.canlitv.vip/sozcutv.m3u8?tkn=RMnrBTxcv0zdJ1F48u_GMw&tms=1746578018&hst=tv.canlitv.vip&ip=78.161.44.110
 #EXTINF:0,Habertürk
 #EXTGRP:unsorted
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8

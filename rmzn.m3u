@@ -31,10 +31,10 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,KON TV
 #EXTGRP:unsorted
-http://185.234.111.229:8000/play/a05o
+http://185.234.111.229:8000/play/a05h
 #EXTINF:0,Beyaz TV
 #EXTGRP:unsorted
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&amp;
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:0,Kanal 7
 #EXTGRP:unsorted
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8

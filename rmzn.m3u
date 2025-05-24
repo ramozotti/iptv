@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0,TRT 1
 #EXTGRP:unsorted
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:0,ATV
 #EXTGRP:unsorted
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:0,Kanal D
 #EXTGRP:unsorted
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -16,7 +16,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0,TRT 2
 #EXTGRP:unsorted
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trt2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:0,NOW TV
 #EXTGRP:unsorted
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -26,6 +26,12 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0,TV 8
 #EXTGRP:unsorted
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0,CNN
+#EXTGRP:unsorted
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+#EXTINF:0,Sozcu TV
+#EXTGRP:unsorted
+https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:0,360
 #EXTGRP:unsorted
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -64,7 +70,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0,TGRT Belgesel
 #EXTGRP:unsorted
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trtbelgesel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:0,NTV
 #EXTGRP:unsorted
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -109,4 +115,3 @@ https://saran-live.ercdn.net/fx/index.m3u8
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:0,ATV Yedek2
 #EXTGRP:unsorted
-https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDEwOjU1OjA1IFBNJmhhc2hfdmFsdWU9Z0l3em9aQmFBaTRGN1FSdVc0c3ZUUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2

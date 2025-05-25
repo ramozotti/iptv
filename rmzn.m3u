@@ -46,7 +46,7 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:0,DMAX
 #EXTGRP:unsorted
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://cdn03.kablowebtv.net/live_turksat_sub3/dmax_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1324462&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI1IDEyOjI3OjEyIEFNJmhhc2hfdmFsdWU9VkRmb0dEbHJWL3FrRXl0TGQxcFYvQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:0,TLC
 #EXTGRP:unsorted
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8

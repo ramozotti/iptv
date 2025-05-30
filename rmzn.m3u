@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:0,TRT 1
 #EXTGRP:unsorted
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0,ATV
 #EXTGRP:unsorted
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1748692453&st=9WpaD5IZ3OlbovshLanHuA&sid=7gb2asuhstwu&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:0,Kanal D
 #EXTGRP:unsorted
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:0,Star TV
 #EXTGRP:unsorted
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0,Show TV
 #EXTGRP:unsorted
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:0,TRT 2
 #EXTGRP:unsorted
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,NOW TV
 #EXTGRP:unsorted
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1748706691&st=UoVahGicNBR-h2MCqAcrPQ
 #EXTINF:0,Teve 2
 #EXTGRP:unsorted
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:0,TV 8
 #EXTGRP:unsorted
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=_bqZUOxHh0-1bjXZ7hNuMg&e=1748659111
@@ -112,4 +112,4 @@ https://saran-live.ercdn.net/fx/index.m3u8
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:0,ATV Yedek2
 #EXTGRP:unsorted
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1748692453&st=9WpaD5IZ3OlbovshLanHuA&sid=7gb2asuhstwu&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8

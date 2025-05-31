@@ -26,9 +26,21 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:0,TV 8
 #EXTGRP:unsorted
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0,Beyaz TV
+#EXTGRP:unsorted
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=_bqZUOxHh0-1bjXZ7hNuMg&e=1748659111
+#EXTINF:0,Kanal 7
+#EXTGRP:unsorted
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0,DMAX
+#EXTGRP:unsorted
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:0,Sozcu TV
 #EXTGRP:unsorted
 https://izle.canlitvapp.com/sozcu/index.m3u8
@@ -38,18 +50,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,GZT TV
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:0,Beyaz TV
-#EXTGRP:unsorted
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,Kanal 7
-#EXTGRP:unsorted
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:0,DMAX
-#EXTGRP:unsorted
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:0,TLC
-#EXTGRP:unsorted
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:0,TV41
 #EXTGRP:unsorted
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8

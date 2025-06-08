@@ -80,6 +80,9 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TV 100
 #EXTGRP:unsorted
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:0,AKiT TV HD
+#EXTGRP:unsorted
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0,TVNET
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8

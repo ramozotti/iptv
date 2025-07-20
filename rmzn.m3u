@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0,ATV
 #EXTGRP:unsorted
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+https://kablosistem.vercel.app/index.m3u8?id=9
 #EXTINF:0,Kanal D
 #EXTGRP:unsorted
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8

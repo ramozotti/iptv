@@ -29,9 +29,9 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,Beyaz TV
 #EXTGRP:unsorted
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0,CNN
+#EXTINF:0,CNN Turk
 #EXTGRP:unsorted
-https://b.fulltvizle.com/cnn/playlist.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:0,Kanal 7
 #EXTGRP:unsorted
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -50,6 +50,12 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,GZT TV
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:0,A Haber HD
+#EXTGRP:unsorted
+http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:0,TGRT Haber FHD TR
+#EXTGRP:unsorted
+https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=653w7r6bcjey&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2
 #EXTINF:0,TV41
 #EXTGRP:unsorted
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
@@ -116,6 +122,7 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:0,ATV Test
 #EXTGRP:unsorted
 http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+
 
 
 

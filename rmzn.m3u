@@ -53,12 +53,18 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:0,A Haber HD
 #EXTGRP:unsorted
 http://stream.tvcdn.net/haber/a-haber.m3u8
-#EXTINF:0,TGRT Haber FHD TR
+#EXTINF:0,Vatan caddesi
 #EXTGRP:unsorted
-https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=653w7r6bcjey&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2
-#EXTINF:0,TV41
+https://hls.ibb.gov.tr/tkm2/hls/406.stream/chunklist.m3u8
+#EXTINF:0,Sarachane
 #EXTGRP:unsorted
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/playlist.m3u8
+#EXTINF:0,BEYAZIT MEYDANI
+#EXTGRP:unsorted
+https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/playlist.m3u8
+#EXTINF:0,KAPALIÇARŞI
+#EXTGRP:unsorted
+https://livestream.ibb.gov.tr/cam_turistik/b_kapalicarsi.stream/playlist.m3u8
 #EXTINF:0,Halk TV
 #EXTGRP:unsorted
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -122,6 +128,7 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:0,ATV Test
 #EXTGRP:unsorted
 http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+
 
 
 

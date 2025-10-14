@@ -7,7 +7,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:0,Kanal D
 #EXTGRP:unsorted
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,Star TV
 #EXTGRP:unsorted
 https://dogus-live.daioncdn.net/startv/startv.m3u8
@@ -31,7 +31,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0,CNN Turk
 #EXTGRP:unsorted
-http://stream.tvcdn.net/haber/cnn-turk.m3u8
+http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:0,Kanal 7
 #EXTGRP:unsorted
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -104,9 +104,6 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 #EXTINF:0,SHOW TV FHD
 #EXTGRP:unsorted
 https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:0,KANAL D HD YEDEK
-#EXTGRP:unsorted
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,National Geoghrapic Wild
 #EXTGRP:unsorted
 https://saran-live.ercdn.net/natgeowild/index.m3u8
@@ -125,6 +122,7 @@ http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
 #EXTINF:0,ATV Gecici
 #EXTGRP:unsorted
 https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=TfLsFqQYe6n7fu465OO4KA&e=1759907417&ppid=c92fee6d6ca65add41923ca439510f0a
+
 
 
 

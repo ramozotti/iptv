@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,TRT 1
+#EXTINF:0,TRT 1 
 #EXTGRP:unsorted
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,ATV
 #EXTGRP:unsorted
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -10,79 +10,97 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,Star TV
 #EXTGRP:unsorted
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:0,Show TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+#EXTINF:0,SHOW
 #EXTGRP:unsorted
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:0,TRT 2
 #EXTGRP:unsorted
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,NOW TV
 #EXTGRP:unsorted
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:0,Teve 2
-#EXTGRP:unsorted
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:0,TV 8
 #EXTGRP:unsorted
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:0,TV8 BUÇUK 
+#EXTGRP:unsorted
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:0,TV 2
+#EXTGRP:unsorted
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0,Beyaz TV
 #EXTGRP:unsorted
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0,CNN Turk
+#EXTINF:0,HABER TÜRK
 #EXTGRP:unsorted
-http://116.202.238.88/CNNTURK_TR/index.m3u8
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
+#EXTINF:0,CNN TÜRK
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:0,KRT
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
 #EXTINF:0,Kanal 7
 #EXTGRP:unsorted
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,DMAX
-#EXTGRP:unsorted
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:0,TLC
-#EXTGRP:unsorted
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-#EXTINF:0,Sozcu TV
-#EXTGRP:unsorted
-https://izle.canlitvapp.com/sozcu/index.m3u8
 #EXTINF:0,360
 #EXTGRP:unsorted
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0,TRT HABER 
+#EXTGRP:unsorted
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0,NTV 
+#EXTGRP:unsorted
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:0,LİDER HABER
+#EXTGRP:unsorted
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:0,GZT TV
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:0,Sarachane
+#EXTINF:0,SÖZCÜ TV
 #EXTGRP:unsorted
-https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/playlist.m3u8
-#EXTINF:0,BEYAZIT MEYDANI
-#EXTGRP:unsorted
-https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/playlist.m3u8
-#EXTINF:0,KAPALIÇARŞI
-#EXTGRP:unsorted
-https://livestream.ibb.gov.tr/cam_turistik/b_kapalicarsi.stream/playlist.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:0,Halk TV
 #EXTGRP:unsorted
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:0,Habertürk
+#EXTINF:0,TELE1 TV
 #EXTGRP:unsorted
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:0,TGRT HABER
+#EXTGRP:unsorted
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:0,EKOL TV 
+#EXTGRP:unsorted
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:0,SÖZCÜ TV 
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+#EXTINF:0,HABER GLOBAL
+#EXTGRP:unsorted
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:0,MK TV
+#EXTGRP:unsorted
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:0,Meltem TV
 #EXTGRP:unsorted
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:0,Dost TV
 #EXTGRP:unsorted
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:0,TGRT Belgesel
+#EXTINF:0,TRT Belgesel
 #EXTGRP:unsorted
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:0,NTV
-#EXTGRP:unsorted
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:0,TRT Haber
 #EXTGRP:unsorted
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Kurdi
 #EXTGRP:unsorted
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0,ÜLKE TV
+#EXTGRP:unsorted
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:0,TV 100
 #EXTGRP:unsorted
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
@@ -92,9 +110,6 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0,TVNET
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0,24 TV
-#EXTGRP:unsorted
-https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:0,TRT Çocuk
 #EXTGRP:unsorted
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -110,21 +125,16 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:unsorted
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:0,FX Tv
-#EXTGRP:unsorted
-https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:0,ATV Yedek
 #EXTGRP:unsorted
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:0,ATV Test
+#EXTINF:0,ATV Yedek 2
 #EXTGRP:unsorted
-http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
-#EXTINF:0,ATV Gecici
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:0,Kanal D Yedek
 #EXTGRP:unsorted
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=i4fWGEnRCz1pVCeLtnE5vQ&e=1760503744&ppid=1f31ad5a17deb4f65f21bc6a6cd2f495
-
-
-
-
-
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:0,SHOW yedek
+#EXTGRP:unsorted
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 

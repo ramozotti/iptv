@@ -19,7 +19,7 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,NOW TV
 #EXTGRP:unsorted
-http://116.202.238.88/FOXTV_TR/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:0,TV 8
 #EXTGRP:unsorted
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
@@ -137,4 +137,11 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:0,SHOW yedek
 #EXTGRP:unsorted
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:0,ATV Yedek MONO
+#EXTGRP:unsorted
+https://trn03.tulix.tv/gt-a-tv-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,ATV Yedek TURKNET
+#EXTGRP:unsorted
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
 

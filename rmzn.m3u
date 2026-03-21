@@ -125,6 +125,9 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:unsorted
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:0,Avrupa Yakası
+#EXTGRP:unsorted
+https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
 #EXTINF:0,ATV Yedek
 #EXTGRP:unsorted
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8

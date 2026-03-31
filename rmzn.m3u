@@ -122,15 +122,6 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:0,Stream City
 #EXTGRP:unsorted
 http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:0,Bizimkiler
-#EXTGRP:unsorted
-https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
-#EXTINF:0,Avrupa Yakası
-#EXTGRP:unsorted
-https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
-#EXTINF:0,ATV Yedek 2
-#EXTGRP:unsorted
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:0,Kanal D Yedek
 #EXTGRP:unsorted
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
@@ -140,3 +131,6 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:0,ATV Yedek TURKNET
 #EXTGRP:unsorted
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:0,ATV Yedek 2
+#EXTGRP:unsorted
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=10792&extension=ts

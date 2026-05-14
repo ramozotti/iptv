@@ -77,9 +77,6 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:0,HABER GLOBAL
 #EXTGRP:unsorted
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:0,MK TV
-#EXTGRP:unsorted
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:0,Meltem TV
 #EXTGRP:unsorted
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8

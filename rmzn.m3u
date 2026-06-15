@@ -125,9 +125,9 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:0,SHOW yedek
 #EXTGRP:unsorted
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:0,ATV Yedek TURKNET
+#EXTINF:0,ATV Yedek 1080p
 #EXTGRP:unsorted
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:0,ATV Yedek 2
+#EXTINF:0,ATV Yedek 720p
 #EXTGRP:unsorted
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=10792&extension=ts
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8

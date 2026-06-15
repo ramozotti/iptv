@@ -4,13 +4,13 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,ATV
 #EXTGRP:unsorted
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://kzx.testworkery0.workers.dev/atv?key=patr0n
 #EXTINF:0,Kanal D
 #EXTGRP:unsorted
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,Star
 #EXTGRP:unsorted
-http://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
+https://notyet.denek1544.workers.dev/izle/startv-113.m3u8
 #EXTINF:0,SHOW
 #EXTGRP:unsorted
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558

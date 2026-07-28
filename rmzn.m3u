@@ -38,12 +38,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0,HABER TÜRK
 #EXTGRP:unsorted
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
-#EXTINF:0,CNN TÜRK
-#EXTGRP:unsorted
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-#EXTINF:0,KRT
-#EXTGRP:unsorted
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
 #EXTINF:0,Kanal 7
 #EXTGRP:unsorted
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -119,30 +113,14 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0,ÜLKE TV
 #EXTGRP:unsorted
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:0,TV 100
-#EXTGRP:unsorted
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:0,AKiT TV HD
-#EXTGRP:unsorted
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0,TVNET
-#EXTGRP:unsorted
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0,TRT Çocuk
 #EXTGRP:unsorted
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:0,DMAX
-#EXTGRP:unsorted
-https://yakala.atakann.workers.dev/?url=https://www.dmax.com.tr/canli-izle&ext=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:0,TLC
 #EXTGRP:unsorted
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
-#EXTINF:0,National Geoghrapic Wild
-#EXTGRP:unsorted
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:unsorted
-https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:0,Stream City
 #EXTGRP:unsorted
 http://iptv.prosto.tv:7000/ch321/video.m3u8
